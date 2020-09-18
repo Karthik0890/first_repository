@@ -1,2 +1,2 @@
-Second file in GitHub
+Second file in GitHub - additional commit
 Changing second file in feature branch
